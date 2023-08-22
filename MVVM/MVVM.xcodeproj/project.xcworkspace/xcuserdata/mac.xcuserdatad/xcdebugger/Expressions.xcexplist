@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ContentView.ramdomComputerMove.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "moves.indices.filter { moves[$0] == nil }">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
