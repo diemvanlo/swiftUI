@@ -10,5 +10,32 @@
             </PersistentString>
          </PersistentStrings>
       </ContextState>
+      <ContextState
+         contextName = "closure #1 in ContentView.checkWinCondition(for:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "winRow.allSatisfy({ moves[$0]?.player == player })">
+            </PersistentString>
+            <PersistentString
+               value = "moves">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.checkWinCondition(for:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "moves">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in closure #1 in closure #1 in ContentView.body.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "moves">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
    </ContextStates>
 </VariablesViewState>
