@@ -1,0 +1,120 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0412042F2AC015C2006D56B4 /* IsBipartite.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = IsBipartite.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		041204302AC061DC006D56B4 /* MaxArea.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MaxArea.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		041204312AC06914006D56B4 /* BinarySearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinarySearch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0412AAA82AACA1A10070CBC9 /* ProductArrayExceptSelf.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProductArrayExceptSelf.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0412AAA92AACAFE70070CBC9 /* MaxProfit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MaxProfit.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		041719862ABB5DF400FF5B72 /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0440EDC52AA503E600E71F2A /* GirdTravellers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GirdTravellers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0457BB522AC66A0200898672 /* PartitionString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PartitionString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		049BB1732AAB036A004A5048 /* Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Graph.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04D0A5E02AB5721E00E37365 /* TowerOfHaNoi.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TowerOfHaNoi.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04D0A5E12AB5786500E37365 /* CanVisitAllRooms.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CanVisitAllRooms.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04D7D1742ABCA7EE0051570C /* QuickSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = QuickSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04DA8D542AA6207C008F8E0A /* Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Matrix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04EC0D0F2AB5B92D00801F7C /* FindCircleNum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FindCircleNum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04EDD4322AC7ACC700DCA374 /* ReverseLinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReverseLinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04EDD4332AC7BF9100DCA374 /* PartitionLinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PartitionLinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04F046702AB4382B00737276 /* LongestPalindromicSubstring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LongestPalindromicSubstring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04F046712AB457A500737276 /* PowerOfFour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PowerOfFour.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04F6E9D62ACDA666005C4276 /* NumBusesToDestination.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumBusesToDestination.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04F6E9D72ACDA9E5005C4276 /* RemoveDuplicates.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RemoveDuplicates.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04F6E9D82ACDC417005C4276 /* TimeRequiredToBuy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeRequiredToBuy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04F7E8302ABED893002E2C6C /* EventualSafeNode.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EventualSafeNode.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04F9839E2ABD762C000FB11F /* DFSTravel.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DFSTravel.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04FF424A2AB211FA00860376 /* LengthOfLongestSubstring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LengthOfLongestSubstring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0440EDBE2AA503D000E71F2A = {
+			isa = PBXGroup;
+			children = (
+				04F6E9D82ACDC417005C4276 /* TimeRequiredToBuy.playground */,
+				04F6E9D72ACDA9E5005C4276 /* RemoveDuplicates.playground */,
+				04F6E9D62ACDA666005C4276 /* NumBusesToDestination.playground */,
+				04EDD4332AC7BF9100DCA374 /* PartitionLinkedList.playground */,
+				04EDD4322AC7ACC700DCA374 /* ReverseLinkedList.playground */,
+				0457BB522AC66A0200898672 /* PartitionString.playground */,
+				041204312AC06914006D56B4 /* BinarySearch.playground */,
+				041204302AC061DC006D56B4 /* MaxArea.playground */,
+				0412042F2AC015C2006D56B4 /* IsBipartite.playground */,
+				04F7E8302ABED893002E2C6C /* EventualSafeNode.playground */,
+				04F9839E2ABD762C000FB11F /* DFSTravel.playground */,
+				04D7D1742ABCA7EE0051570C /* QuickSort.playground */,
+				041719862ABB5DF400FF5B72 /* MergeSort.playground */,
+				04EC0D0F2AB5B92D00801F7C /* FindCircleNum.playground */,
+				04D0A5E12AB5786500E37365 /* CanVisitAllRooms.playground */,
+				04D0A5E02AB5721E00E37365 /* TowerOfHaNoi.playground */,
+				04F046712AB457A500737276 /* PowerOfFour.playground */,
+				04F046702AB4382B00737276 /* LongestPalindromicSubstring.playground */,
+				04FF424A2AB211FA00860376 /* LengthOfLongestSubstring.playground */,
+				0412AAA92AACAFE70070CBC9 /* MaxProfit.playground */,
+				0412AAA82AACA1A10070CBC9 /* ProductArrayExceptSelf.playground */,
+				049BB1732AAB036A004A5048 /* Graph.playground */,
+				04DA8D542AA6207C008F8E0A /* Matrix.playground */,
+				0440EDC52AA503E600E71F2A /* GirdTravellers.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0440EDBF2AA503D000E71F2A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 0440EDC22AA503D000E71F2A /* Build configuration list for PBXProject "algorithms" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0440EDBE2AA503D000E71F2A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0440EDC32AA503D000E71F2A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0440EDC42AA503D000E71F2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0440EDC22AA503D000E71F2A /* Build configuration list for PBXProject "algorithms" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0440EDC32AA503D000E71F2A /* Debug */,
+				0440EDC42AA503D000E71F2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0440EDBF2AA503D000E71F2A /* Project object */;
+}

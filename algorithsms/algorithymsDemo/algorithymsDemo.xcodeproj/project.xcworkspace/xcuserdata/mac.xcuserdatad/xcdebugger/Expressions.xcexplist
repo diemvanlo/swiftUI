@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ContentView.longestPalindrome(_:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "s.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.reverse(_:_:_:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "head!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.isPalindrome(_:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "string[c]">
+            </PersistentString>
+            <PersistentString
+               value = "s.count/2 - 1">
+            </PersistentString>
+            <PersistentString
+               value = "string[string.count/2 - 1 - c]">
+            </PersistentString>
+            <PersistentString
+               value = "string.count/2 - 1 - c">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.calulateSomething():ContentView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.travel(routes:from:to:visit:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "min(minStep, availableSteps) + 1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.reverseBetween(_:_:_:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(prev, runner?.next, runner)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListNode.get(index:):ContentView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.reverse(_:_:):ContentView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.isValidSudoku(_:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "board[n.a ..&lt; n.a + 3]">
+            </PersistentString>
+            <PersistentString
+               value = "board[j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContentView.productArray(arr:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "right[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
